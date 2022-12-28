@@ -1,14 +1,37 @@
 {
   "files": {
-    "main.css": "./static/css/main.b94d67b3.css",
-    "main.js": "./static/js/main.fc30652f.js",
+    "main.css": "./static/css/main.5deee8d0.css",
+    "main.js": "./static/js/main.c3339d13.js",
+    "static/media/bg.gif": "./static/media/bg.bca3c58ae8959fd1104f.gif",
+    "static/media/1.jpg": "./static/media/1.20fd10154f5c8a8f3fbd.jpg",
+    "static/media/2.jpg": "./static/media/2.03bb58efb9a72837cc4b.jpg",
+    "static/media/zero.jpg": "./static/media/zero.8d30e54370cbc998df88.jpg",
+    "static/media/3.jpg": "./static/media/3.f77d34a6bef320bac3be.jpg",
+    "static/media/prod1.jpg": "./static/media/prod1.74030d25cc204213a9d3.jpg",
+    "static/media/prod2.jpg": "./static/media/prod2.0cfec6c6ca2885c8f7f9.jpg",
+    "static/media/raheli.jpg": "./static/media/raheli.1811fda5b1b26b57e5a1.jpg",
+    "static/media/4.jpg": "./static/media/4.262003f602c10c13a36d.jpg",
+    "static/media/OpenSans-Bold.ttf": "./static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-ExtraBold.ttf": "./static/media/OpenSans-ExtraBold.110e781b605b33c1b949.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "./static/media/OpenSans-SemiBold.a16d8201b06a03c6c365.ttf",
+    "static/media/OpenSans-Regular.ttf": "./static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/LEMONMILK-Bold.otf": "./static/media/LEMONMILK-Bold.ac2b6389ba01ca1f431e.otf",
+    "static/media/LEMONMILK-Regular.otf": "./static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "static/media/LEMONMILK-Medium.otf": "./static/media/LEMONMILK-Medium.3d615d9795b5607c2478.otf",
+    "static/media/LEMONMILK-Light.otf": "./static/media/LEMONMILK-Light.febd30d6f2b77941893c.otf",
     "static/media/logo.png": "./static/media/logo.ce73c4953cd3663b5092.png",
+    "static/media/2.png": "./static/media/2.be4b1409481b63382bc1.png",
+    "static/media/4.png": "./static/media/4.63f75f946a110ea0f5d8.png",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.b94d67b3.css.map": "./static/css/main.b94d67b3.css.map",
-    "main.fc30652f.js.map": "./static/js/main.fc30652f.js.map"
+    "main.5deee8d0.css.map": "./static/css/main.5deee8d0.css.map",
+    "main.c3339d13.js.map": "./static/js/main.c3339d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94d67b3.css",
-    "static/js/main.fc30652f.js"
+    "static/css/main.5deee8d0.css",
+    "static/js/main.c3339d13.js"
   ]
 }
