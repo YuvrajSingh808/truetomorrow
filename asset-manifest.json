@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.5deee8d0.css",
-    "main.js": "./static/js/main.c3339d13.js",
+    "main.css": "./static/css/main.64713e1a.css",
+    "main.js": "./static/js/main.3f1b41aa.js",
     "static/media/bg.gif": "./static/media/bg.bca3c58ae8959fd1104f.gif",
     "static/media/1.jpg": "./static/media/1.20fd10154f5c8a8f3fbd.jpg",
     "static/media/2.jpg": "./static/media/2.03bb58efb9a72837cc4b.jpg",
@@ -20,18 +20,18 @@
     "static/media/LEMONMILK-Medium.otf": "./static/media/LEMONMILK-Medium.3d615d9795b5607c2478.otf",
     "static/media/LEMONMILK-Light.otf": "./static/media/LEMONMILK-Light.febd30d6f2b77941893c.otf",
     "static/media/logo.png": "./static/media/logo.ce73c4953cd3663b5092.png",
-    "static/media/2.png": "./static/media/2.be4b1409481b63382bc1.png",
-    "static/media/4.png": "./static/media/4.63f75f946a110ea0f5d8.png",
+    "static/media/2.png": "./static/media/2.57ff0ef6fa02f6018ab8.png",
+    "static/media/4.png": "./static/media/4.2c33c3ff621ab886d875.png",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.5deee8d0.css.map": "./static/css/main.5deee8d0.css.map",
-    "main.c3339d13.js.map": "./static/js/main.c3339d13.js.map"
+    "main.64713e1a.css.map": "./static/css/main.64713e1a.css.map",
+    "main.3f1b41aa.js.map": "./static/js/main.3f1b41aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5deee8d0.css",
-    "static/js/main.c3339d13.js"
+    "static/css/main.64713e1a.css",
+    "static/js/main.3f1b41aa.js"
   ]
 }
